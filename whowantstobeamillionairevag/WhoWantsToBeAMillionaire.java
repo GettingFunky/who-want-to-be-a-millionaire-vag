@@ -27,7 +27,7 @@
  * @Version: 0.1
  */
 
-package MainApp;
+package whowantstobeamillionairevag;
 
 import java.util.Scanner;
 
