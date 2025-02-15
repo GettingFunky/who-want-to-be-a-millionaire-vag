@@ -40,7 +40,8 @@ public class WhoWantsToBeAMillionaire {
         timeDelay(1000);
         System.out.println("********************************************");
         timeDelay(1000);
-        System.out.println("Καλώς Ορίσατε στο «Ποιος Θέλει να γίνει εκατομμυριούχος;»");
+        System.out.println("Καλώς Ορίσατε στο «Ποιος Θέλει να γίνει Χιλιαδιούχος;»");
+        System.out.println("Είναι σαν το «Ποιος Θέλει να γίνει εκατομμυριούχος;» απλά μας τελείωσε το budget");
         System.out.println("********************************************");
         System.out.println();
         timeDelay(1000);
